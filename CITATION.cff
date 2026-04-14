@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+title: "TVP-ScenarioGame-EN"
+message: "If you use this dataset, please cite it using the metadata below."
+type: dataset
+authors:
+  - family-names: Xu
+    given-names: Zijie
+  - family-names: Qi
+    given-names: Minfeng
+  - family-names: Wu
+    given-names: Shiqing
+  - family-names: Zhang
+    given-names: Lefeng
+  - family-names: Wei
+    given-names: Qiwen
+  - family-names: He
+    given-names: Han
+  - family-names: Li
+    given-names: Ningran
+version: 2.0.0
+license: MIT

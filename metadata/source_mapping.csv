@@ -1,0 +1,22 @@
+scenario_uid,source_file,source_section,standardized_status,notes
+S1-1,raw/gold_experiment_design.txt,ask,included,main benchmark
+S1-2,raw/gold_experiment_design.txt,emergency,included,main benchmark
+S1-3,raw/gold_experiment_design.txt,env,included,main benchmark
+S1-4,raw/gold_experiment_design.txt,exchange,included,main benchmark
+S1-5,raw/gold_experiment_design.txt,pretend,included,main benchmark
+S1-6,raw/gold_experiment_design.txt,direct,included,main benchmark
+S2-1,raw/deep_sea_experiment_design.txt,experiment_1,included,main benchmark
+S2-2,raw/deep_sea_experiment_design.txt,experiment_2,included,main benchmark
+S2-3,raw/deep_sea_experiment_design.txt,experiment_3,included,main benchmark
+S2-4,raw/deep_sea_experiment_design.txt,experiment_4,included,main benchmark
+S2-5,raw/deep_sea_experiment_design.txt,experiment_5,included,main benchmark
+S2-6,raw/deep_sea_experiment_design.txt,experiment_6,included,main benchmark
+S2-7,raw/deep_sea_experiment_design.txt,experiment_7,included,main benchmark
+S3-1,raw/space_colony_experiment_design.txt,experiment_1,included,main benchmark
+S3-2,raw/space_colony_experiment_design.txt,experiment_2,included,main benchmark
+S3-3,raw/space_colony_experiment_design.txt,experiment_3,included,main benchmark
+S3-4,raw/space_colony_experiment_design.txt,experiment_4,included,main benchmark
+S3-5,raw/space_colony_experiment_design.txt,experiment_5,included,main benchmark
+S3-6,raw/space_colony_experiment_design.txt,experiment_6,included,main benchmark
+EXTRA-G1,raw/gold_experiment_design.txt,2_role,excluded_from_main,draft extra
+EXTRA-G2,raw/gold_experiment_design.txt,witch,excluded_from_main,draft extra

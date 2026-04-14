@@ -1,0 +1,39 @@
+{
+  "dataset_name": "TVP-ScenarioGame-EN",
+  "release_profile": "full_english_open_source",
+  "version": "2.0.0",
+  "language": "en",
+  "scenario_count": 19,
+  "instance_count": 57,
+  "macro_scene_counts": {
+    "S1": 6,
+    "S2": 7,
+    "S3": 6
+  },
+  "trust_levels": {
+    "no_trust": {
+      "label": "No Trust",
+      "tau": 0.1,
+      "paper_level_alias": "low",
+      "policy": "Conservative sharing; strict verification; default refusal for sensitive disclosure."
+    },
+    "low_trust": {
+      "label": "Low Trust",
+      "tau": 0.5,
+      "paper_level_alias": "medium",
+      "policy": "Limited sharing; verify before disclosing; aggregate whenever possible."
+    },
+    "high_trust": {
+      "label": "High Trust",
+      "tau": 0.9,
+      "paper_level_alias": "high",
+      "policy": "Collaboration-first behavior; lower verification threshold; elevated over-disclosure risk."
+    }
+  },
+  "notes": [
+    "Fully English release for open-source publication.",
+    "Canonical benchmark: 19 scenarios expanded into 57 trust-conditioned instances.",
+    "Trust mapping follows paper setup: no_trust=0.1, low_trust=0.5, high_trust=0.9.",
+    "Chinese source variants are preserved as archive files in data/*_zh_archive.jsonl."
+  ]
+}
