@@ -1,4 +1,4 @@
-# TVP-ScenarioGame-EN
+# TVP-ScenarioGame
 
 Publication-ready open-source release of the scenario-game dataset for studying the Trust-Vulnerability Paradox (TVP) in LLM-based multi-agent systems.
 
